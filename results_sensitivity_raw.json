@@ -1,0 +1,1502 @@
+[
+  {
+    "seed": 42,
+    "epsilon": 0.01,
+    "configuration": "baseline",
+    "attack": "clean",
+    "accuracy": 0.7966199517250061,
+    "precision": 0.9704540269221994,
+    "recall": 0.6629003350736383,
+    "f1": 0.7877216537802677
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.01,
+    "configuration": "baseline",
+    "attack": "fgsm",
+    "accuracy": 0.783711850643158,
+    "precision": 0.9657029146669788,
+    "recall": 0.6428738408789839,
+    "f1": 0.7718937125748503
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.01,
+    "configuration": "baseline",
+    "attack": "pgd",
+    "accuracy": 0.783711850643158,
+    "precision": 0.9657029146669788,
+    "recall": 0.6428738408789839,
+    "f1": 0.7718937125748503
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.05,
+    "configuration": "baseline",
+    "attack": "clean",
+    "accuracy": 0.7966199517250061,
+    "precision": 0.9704540269221994,
+    "recall": 0.6629003350736383,
+    "f1": 0.7877216537802677
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.05,
+    "configuration": "baseline",
+    "attack": "fgsm",
+    "accuracy": 0.7380678057670593,
+    "precision": 0.9352852475496356,
+    "recall": 0.5799890906257306,
+    "f1": 0.7159828772064836
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.05,
+    "configuration": "baseline",
+    "attack": "pgd",
+    "accuracy": 0.7376242280006409,
+    "precision": 0.9346569489821563,
+    "recall": 0.5795994701161069,
+    "f1": 0.7155018998605165
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.1,
+    "configuration": "baseline",
+    "attack": "clean",
+    "accuracy": 0.7966199517250061,
+    "precision": 0.9704540269221994,
+    "recall": 0.6629003350736383,
+    "f1": 0.7877216537802677
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.1,
+    "configuration": "baseline",
+    "attack": "fgsm",
+    "accuracy": 0.603974461555481,
+    "precision": 0.7023525753964142,
+    "recall": 0.5280916387438634,
+    "f1": 0.6028823058446757
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.1,
+    "configuration": "baseline",
+    "attack": "pgd",
+    "accuracy": 0.5997604727745056,
+    "precision": 0.6972458065852143,
+    "recall": 0.5247409023611003,
+    "f1": 0.5988173046996577
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.15,
+    "configuration": "baseline",
+    "attack": "clean",
+    "accuracy": 0.7966199517250061,
+    "precision": 0.9704540269221994,
+    "recall": 0.6629003350736383,
+    "f1": 0.7877216537802677
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.15,
+    "configuration": "baseline",
+    "attack": "fgsm",
+    "accuracy": 0.4559084475040436,
+    "precision": 0.5242868157286045,
+    "recall": 0.47689550377931894,
+    "f1": 0.49946951766914216
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.15,
+    "configuration": "baseline",
+    "attack": "pgd",
+    "accuracy": 0.44889992475509644,
+    "precision": 0.5175310758679812,
+    "recall": 0.47042780331956674,
+    "f1": 0.49285655971916076
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.2,
+    "configuration": "baseline",
+    "attack": "clean",
+    "accuracy": 0.7966199517250061,
+    "precision": 0.9704540269221994,
+    "recall": 0.6629003350736383,
+    "f1": 0.7877216537802677
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.2,
+    "configuration": "baseline",
+    "attack": "fgsm",
+    "accuracy": 0.31454044580459595,
+    "precision": 0.3972871256076525,
+    "recall": 0.3948414244525832,
+    "f1": 0.3960604994723883
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.2,
+    "configuration": "baseline",
+    "attack": "pgd",
+    "accuracy": 0.29861605167388916,
+    "precision": 0.3841487127634752,
+    "recall": 0.38486713940621836,
+    "f1": 0.38450759050214095
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.01,
+    "configuration": "baseline",
+    "attack": "clean",
+    "accuracy": 0.7781227827072144,
+    "precision": 0.9719175605640593,
+    "recall": 0.628379957920985,
+    "f1": 0.7632749645054425
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.01,
+    "configuration": "baseline",
+    "attack": "fgsm",
+    "accuracy": 0.7720014452934265,
+    "precision": 0.9683428710580787,
+    "recall": 0.6197303826073405,
+    "f1": 0.7557730685165828
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.01,
+    "configuration": "baseline",
+    "attack": "pgd",
+    "accuracy": 0.7720014452934265,
+    "precision": 0.9683428710580787,
+    "recall": 0.6197303826073405,
+    "f1": 0.7557730685165828
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.05,
+    "configuration": "baseline",
+    "attack": "clean",
+    "accuracy": 0.7781227827072144,
+    "precision": 0.9719175605640593,
+    "recall": 0.628379957920985,
+    "f1": 0.7632749645054425
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.05,
+    "configuration": "baseline",
+    "attack": "fgsm",
+    "accuracy": 0.7327448725700378,
+    "precision": 0.9271016311166875,
+    "recall": 0.5757811891217953,
+    "f1": 0.7103783108205547
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.05,
+    "configuration": "baseline",
+    "attack": "pgd",
+    "accuracy": 0.7315915822982788,
+    "precision": 0.9257910597689604,
+    "recall": 0.5745344034909997,
+    "f1": 0.7090445737365966
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.1,
+    "configuration": "baseline",
+    "attack": "clean",
+    "accuracy": 0.7781227827072144,
+    "precision": 0.9719175605640593,
+    "recall": 0.628379957920985,
+    "f1": 0.7632749645054425
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.1,
+    "configuration": "baseline",
+    "attack": "fgsm",
+    "accuracy": 0.5770493149757385,
+    "precision": 0.6616032928263426,
+    "recall": 0.5260656120938206,
+    "f1": 0.5861006207405478
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.1,
+    "configuration": "baseline",
+    "attack": "pgd",
+    "accuracy": 0.568576991558075,
+    "precision": 0.6506059137178866,
+    "recall": 0.5229486480168316,
+    "f1": 0.57983411093831
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.15,
+    "configuration": "baseline",
+    "attack": "clean",
+    "accuracy": 0.7781227827072144,
+    "precision": 0.9719175605640593,
+    "recall": 0.628379957920985,
+    "f1": 0.7632749645054425
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.15,
+    "configuration": "baseline",
+    "attack": "fgsm",
+    "accuracy": 0.4811036288738251,
+    "precision": 0.5513342379014021,
+    "recall": 0.4749474012312008,
+    "f1": 0.5102980576021434
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.15,
+    "configuration": "baseline",
+    "attack": "pgd",
+    "accuracy": 0.47307488322257996,
+    "precision": 0.5428417460032333,
+    "recall": 0.4709732720330398,
+    "f1": 0.5043601618892645
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.2,
+    "configuration": "baseline",
+    "attack": "clean",
+    "accuracy": 0.7781227827072144,
+    "precision": 0.9719175605640593,
+    "recall": 0.628379957920985,
+    "f1": 0.7632749645054425
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.2,
+    "configuration": "baseline",
+    "attack": "fgsm",
+    "accuracy": 0.3762420117855072,
+    "precision": 0.4457299302305043,
+    "recall": 0.3932829424140887,
+    "f1": 0.4178671965557212
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.2,
+    "configuration": "baseline",
+    "attack": "pgd",
+    "accuracy": 0.34062278270721436,
+    "precision": 0.41259463179628353,
+    "recall": 0.3737239928309826,
+    "f1": 0.39219855256163877
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.01,
+    "configuration": "baseline",
+    "attack": "clean",
+    "accuracy": 0.7797196507453918,
+    "precision": 0.9710214345587355,
+    "recall": 0.6318865425075976,
+    "f1": 0.7655777945619335
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.01,
+    "configuration": "baseline",
+    "attack": "fgsm",
+    "accuracy": 0.769561767578125,
+    "precision": 0.9681294434910517,
+    "recall": 0.6154445570014806,
+    "f1": 0.7525129817540851
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.01,
+    "configuration": "baseline",
+    "attack": "pgd",
+    "accuracy": 0.7695173621177673,
+    "precision": 0.968125536349148,
+    "recall": 0.6153666328995558,
+    "f1": 0.752453549309195
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.05,
+    "configuration": "baseline",
+    "attack": "clean",
+    "accuracy": 0.7797196507453918,
+    "precision": 0.9710214345587355,
+    "recall": 0.6318865425075976,
+    "f1": 0.7655777945619335
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.05,
+    "configuration": "baseline",
+    "attack": "fgsm",
+    "accuracy": 0.7315471768379211,
+    "precision": 0.9441897026071008,
+    "recall": 0.5615990025714953,
+    "f1": 0.7042900420209127
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.05,
+    "configuration": "baseline",
+    "attack": "pgd",
+    "accuracy": 0.7308374643325806,
+    "precision": 0.9432577643821255,
+    "recall": 0.5608976856541729,
+    "f1": 0.7034792806880376
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.1,
+    "configuration": "baseline",
+    "attack": "clean",
+    "accuracy": 0.7797196507453918,
+    "precision": 0.9710214345587355,
+    "recall": 0.6318865425075976,
+    "f1": 0.7655777945619335
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.1,
+    "configuration": "baseline",
+    "attack": "fgsm",
+    "accuracy": 0.6592885255813599,
+    "precision": 0.8315315315315316,
+    "recall": 0.5034676225356502,
+    "f1": 0.6271902150172305
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.1,
+    "configuration": "baseline",
+    "attack": "pgd",
+    "accuracy": 0.6507274508476257,
+    "precision": 0.8144578313253013,
+    "recall": 0.500428582560586,
+    "f1": 0.6199440100395791
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.15,
+    "configuration": "baseline",
+    "attack": "clean",
+    "accuracy": 0.7797196507453918,
+    "precision": 0.9710214345587355,
+    "recall": 0.6318865425075976,
+    "f1": 0.7655777945619335
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.15,
+    "configuration": "baseline",
+    "attack": "fgsm",
+    "accuracy": 0.46074342727661133,
+    "precision": 0.5323506891271057,
+    "recall": 0.4334138549053222,
+    "f1": 0.4778145268674026
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.15,
+    "configuration": "baseline",
+    "attack": "pgd",
+    "accuracy": 0.44455286860466003,
+    "precision": 0.5144610806286618,
+    "recall": 0.4310761318475805,
+    "f1": 0.46909183413889605
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.2,
+    "configuration": "baseline",
+    "attack": "clean",
+    "accuracy": 0.7797196507453918,
+    "precision": 0.9710214345587355,
+    "recall": 0.6318865425075976,
+    "f1": 0.7655777945619335
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.2,
+    "configuration": "baseline",
+    "attack": "fgsm",
+    "accuracy": 0.3743789792060852,
+    "precision": 0.44653823504668966,
+    "recall": 0.413621133016442,
+    "f1": 0.4294498381877022
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.2,
+    "configuration": "baseline",
+    "attack": "pgd",
+    "accuracy": 0.3116128444671631,
+    "precision": 0.3972298745026018,
+    "recall": 0.4045040130912491,
+    "f1": 0.4008339446353423
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.01,
+    "configuration": "baseline",
+    "attack": "clean",
+    "accuracy": 0.8017210960388184,
+    "precision": 0.9712611292685676,
+    "recall": 0.6715499103872827,
+    "f1": 0.7940661568229983
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.01,
+    "configuration": "baseline",
+    "attack": "fgsm",
+    "accuracy": 0.7912970185279846,
+    "precision": 0.9670190760744657,
+    "recall": 0.6557313176965636,
+    "f1": 0.7815184583236593
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.01,
+    "configuration": "baseline",
+    "attack": "pgd",
+    "accuracy": 0.7912970185279846,
+    "precision": 0.9670190760744657,
+    "recall": 0.6557313176965636,
+    "f1": 0.7815184583236593
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.05,
+    "configuration": "baseline",
+    "attack": "clean",
+    "accuracy": 0.8017210960388184,
+    "precision": 0.9712611292685676,
+    "recall": 0.6715499103872827,
+    "f1": 0.7940661568229983
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.05,
+    "configuration": "baseline",
+    "attack": "fgsm",
+    "accuracy": 0.7396202683448792,
+    "precision": 0.9223583646730559,
+    "recall": 0.5924569469336866,
+    "f1": 0.7214841525906244
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.05,
+    "configuration": "baseline",
+    "attack": "pgd",
+    "accuracy": 0.7393985390663147,
+    "precision": 0.9222087378640776,
+    "recall": 0.5921452505259877,
+    "f1": 0.7212072320030372
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.1,
+    "configuration": "baseline",
+    "attack": "clean",
+    "accuracy": 0.8017210960388184,
+    "precision": 0.9712611292685676,
+    "recall": 0.6715499103872827,
+    "f1": 0.7940661568229983
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.1,
+    "configuration": "baseline",
+    "attack": "fgsm",
+    "accuracy": 0.6908268332481384,
+    "precision": 0.8564133738601823,
+    "recall": 0.5488973739577652,
+    "f1": 0.6690094026023363
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.1,
+    "configuration": "baseline",
+    "attack": "pgd",
+    "accuracy": 0.6859031319618225,
+    "precision": 0.8479312847810307,
+    "recall": 0.5461700303903998,
+    "f1": 0.6643916773306793
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.15,
+    "configuration": "baseline",
+    "attack": "clean",
+    "accuracy": 0.8017210960388184,
+    "precision": 0.9712611292685676,
+    "recall": 0.6715499103872827,
+    "f1": 0.7940661568229983
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.15,
+    "configuration": "baseline",
+    "attack": "fgsm",
+    "accuracy": 0.5007097125053406,
+    "precision": 0.5766054600213737,
+    "recall": 0.4624795449232448,
+    "f1": 0.5132751016172272
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.15,
+    "configuration": "baseline",
+    "attack": "pgd",
+    "accuracy": 0.49046310782432556,
+    "precision": 0.5647364370911889,
+    "recall": 0.45749240240006234,
+    "f1": 0.5054888286193981
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.2,
+    "configuration": "baseline",
+    "attack": "clean",
+    "accuracy": 0.8017210960388184,
+    "precision": 0.9712611292685676,
+    "recall": 0.6715499103872827,
+    "f1": 0.7940661568229983
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.2,
+    "configuration": "baseline",
+    "attack": "fgsm",
+    "accuracy": 0.4223296642303467,
+    "precision": 0.49145222242217024,
+    "recall": 0.4256214447128497,
+    "f1": 0.4561740510293565
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.2,
+    "configuration": "baseline",
+    "attack": "pgd",
+    "accuracy": 0.399618536233902,
+    "precision": 0.4694090988321422,
+    "recall": 0.41969921296657053,
+    "f1": 0.4431645205084955
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.01,
+    "configuration": "baseline",
+    "attack": "clean",
+    "accuracy": 0.7851756811141968,
+    "precision": 0.9709974062721056,
+    "recall": 0.6417829034520377,
+    "f1": 0.7727891156462584
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.01,
+    "configuration": "baseline",
+    "attack": "fgsm",
+    "accuracy": 0.7744410634040833,
+    "precision": 0.9679874365788838,
+    "recall": 0.624405828722824,
+    "f1": 0.7591303112121643
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.01,
+    "configuration": "baseline",
+    "attack": "pgd",
+    "accuracy": 0.7743080258369446,
+    "precision": 0.9677497282280468,
+    "recall": 0.6243279046208993,
+    "f1": 0.7589996210685866
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.05,
+    "configuration": "baseline",
+    "attack": "clean",
+    "accuracy": 0.7851756811141968,
+    "precision": 0.9709974062721056,
+    "recall": 0.6417829034520377,
+    "f1": 0.7727891156462584
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.05,
+    "configuration": "baseline",
+    "attack": "fgsm",
+    "accuracy": 0.7371362447738647,
+    "precision": 0.9448666752544119,
+    "recall": 0.5715732876178602,
+    "f1": 0.7122742280054379
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.05,
+    "configuration": "baseline",
+    "attack": "pgd",
+    "accuracy": 0.7362047433853149,
+    "precision": 0.943342776203966,
+    "recall": 0.5708719707005376,
+    "f1": 0.7112966648866449
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.1,
+    "configuration": "baseline",
+    "attack": "clean",
+    "accuracy": 0.7851756811141968,
+    "precision": 0.9709974062721056,
+    "recall": 0.6417829034520377,
+    "f1": 0.7727891156462584
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.1,
+    "configuration": "baseline",
+    "attack": "fgsm",
+    "accuracy": 0.6706440448760986,
+    "precision": 0.8344051446945338,
+    "recall": 0.5257539156861217,
+    "f1": 0.6450595152731966
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.1,
+    "configuration": "baseline",
+    "attack": "pgd",
+    "accuracy": 0.6652324199676514,
+    "precision": 0.8268612416522384,
+    "recall": 0.5210005454687134,
+    "f1": 0.639227496534251
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.15,
+    "configuration": "baseline",
+    "attack": "clean",
+    "accuracy": 0.7851756811141968,
+    "precision": 0.9709974062721056,
+    "recall": 0.6417829034520377,
+    "f1": 0.7727891156462584
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.15,
+    "configuration": "baseline",
+    "attack": "fgsm",
+    "accuracy": 0.4748491942882538,
+    "precision": 0.5450344327654948,
+    "recall": 0.4687134730772228,
+    "f1": 0.5040010054882902
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.15,
+    "configuration": "baseline",
+    "attack": "pgd",
+    "accuracy": 0.46730837225914,
+    "precision": 0.5374409305707015,
+    "recall": 0.4608431387828255,
+    "f1": 0.496203381297982
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.2,
+    "configuration": "baseline",
+    "attack": "clean",
+    "accuracy": 0.7851756811141968,
+    "precision": 0.9709974062721056,
+    "recall": 0.6417829034520377,
+    "f1": 0.7727891156462584
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.2,
+    "configuration": "baseline",
+    "attack": "fgsm",
+    "accuracy": 0.3404897153377533,
+    "precision": 0.4157768396655906,
+    "recall": 0.39141276396789526,
+    "f1": 0.4032271012282251
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.2,
+    "configuration": "baseline",
+    "attack": "pgd",
+    "accuracy": 0.3060237765312195,
+    "precision": 0.38622754491017963,
+    "recall": 0.37193173848671396,
+    "f1": 0.37894486125997384
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.01,
+    "configuration": "defended",
+    "attack": "clean",
+    "accuracy": 0.7958658337593079,
+    "precision": 0.9696450987104873,
+    "recall": 0.662121094054391,
+    "f1": 0.786904982404149
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.01,
+    "configuration": "defended",
+    "attack": "fgsm",
+    "accuracy": 0.7891678214073181,
+    "precision": 0.9675925925925926,
+    "recall": 0.6514454920907037,
+    "f1": 0.7786522609789038
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.01,
+    "configuration": "defended",
+    "attack": "pgd",
+    "accuracy": 0.7891678214073181,
+    "precision": 0.9675925925925926,
+    "recall": 0.6514454920907037,
+    "f1": 0.7786522609789038
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.01,
+    "configuration": "defended",
+    "attack": "clean",
+    "accuracy": 0.7802963256835938,
+    "precision": 0.9716303567153459,
+    "recall": 0.6325099353229954,
+    "f1": 0.766224571671308
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.01,
+    "configuration": "defended",
+    "attack": "fgsm",
+    "accuracy": 0.7748846411705017,
+    "precision": 0.9704098957070094,
+    "recall": 0.623548663601652,
+    "f1": 0.7592390530860097
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.01,
+    "configuration": "defended",
+    "attack": "pgd",
+    "accuracy": 0.7748846411705017,
+    "precision": 0.9704098957070094,
+    "recall": 0.623548663601652,
+    "f1": 0.7592390530860097
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.01,
+    "configuration": "defended",
+    "attack": "clean",
+    "accuracy": 0.7804737687110901,
+    "precision": 0.9727752458623171,
+    "recall": 0.6320423907114471,
+    "f1": 0.766236833404185
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.01,
+    "configuration": "defended",
+    "attack": "fgsm",
+    "accuracy": 0.7738201022148132,
+    "precision": 0.971125730994152,
+    "recall": 0.6211330164419855,
+    "f1": 0.757663609144052
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.01,
+    "configuration": "defended",
+    "attack": "pgd",
+    "accuracy": 0.7738201022148132,
+    "precision": 0.971125730994152,
+    "recall": 0.6211330164419855,
+    "f1": 0.757663609144052
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.01,
+    "configuration": "defended",
+    "attack": "clean",
+    "accuracy": 0.799237072467804,
+    "precision": 0.9709717655062933,
+    "recall": 0.6672640847814229,
+    "f1": 0.7909661924995381
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.01,
+    "configuration": "defended",
+    "attack": "fgsm",
+    "accuracy": 0.791784942150116,
+    "precision": 0.9682430100103555,
+    "recall": 0.6557313176965636,
+    "f1": 0.78191785913399
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.01,
+    "configuration": "defended",
+    "attack": "pgd",
+    "accuracy": 0.791784942150116,
+    "precision": 0.9682430100103555,
+    "recall": 0.6557313176965636,
+    "f1": 0.78191785913399
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.01,
+    "configuration": "defended",
+    "attack": "clean",
+    "accuracy": 0.7864620089530945,
+    "precision": 0.9728741596886425,
+    "recall": 0.6427959167770592,
+    "f1": 0.7741178678678678
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.01,
+    "configuration": "defended",
+    "attack": "fgsm",
+    "accuracy": 0.7795866131782532,
+    "precision": 0.9704474754726011,
+    "recall": 0.6320423907114471,
+    "f1": 0.7655136614600537
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.01,
+    "configuration": "defended",
+    "attack": "pgd",
+    "accuracy": 0.7794978618621826,
+    "precision": 0.9704404021062709,
+    "recall": 0.6318865425075976,
+    "f1": 0.7653971400254848
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.05,
+    "configuration": "defended",
+    "attack": "clean",
+    "accuracy": 0.7834900617599487,
+    "precision": 0.9705325443786982,
+    "recall": 0.6390555598846723,
+    "f1": 0.7706620307287507
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.05,
+    "configuration": "defended",
+    "attack": "fgsm",
+    "accuracy": 0.7635734677314758,
+    "precision": 0.9645820433436533,
+    "recall": 0.6069508298916855,
+    "f1": 0.7450736560168357
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.05,
+    "configuration": "defended",
+    "attack": "pgd",
+    "accuracy": 0.7628637552261353,
+    "precision": 0.9645117260205981,
+    "recall": 0.6057040442608899,
+    "f1": 0.744112578977599
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.05,
+    "configuration": "defended",
+    "attack": "clean",
+    "accuracy": 0.7826915979385376,
+    "precision": 0.974408036354939,
+    "recall": 0.6349255824826618,
+    "f1": 0.7688605803255484
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.05,
+    "configuration": "defended",
+    "attack": "fgsm",
+    "accuracy": 0.7670777440071106,
+    "precision": 0.9687190900098912,
+    "recall": 0.6105353385802229,
+    "f1": 0.7490081736054681
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.05,
+    "configuration": "defended",
+    "attack": "pgd",
+    "accuracy": 0.7668559551239014,
+    "precision": 0.9684679114628416,
+    "recall": 0.6103015662744486,
+    "f1": 0.7487571701720841
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.05,
+    "configuration": "defended",
+    "attack": "clean",
+    "accuracy": 0.7786550521850586,
+    "precision": 0.9733252866626433,
+    "recall": 0.628379957920985,
+    "f1": 0.7637086845345202
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.05,
+    "configuration": "defended",
+    "attack": "fgsm",
+    "accuracy": 0.760956346988678,
+    "precision": 0.966299173139564,
+    "recall": 0.6010285981454063,
+    "f1": 0.7411001681479702
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.05,
+    "configuration": "defended",
+    "attack": "pgd",
+    "accuracy": 0.7607345581054688,
+    "precision": 0.9661611730793332,
+    "recall": 0.6007169017377074,
+    "f1": 0.7408226023448011
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.05,
+    "configuration": "defended",
+    "attack": "clean",
+    "accuracy": 0.792317271232605,
+    "precision": 0.9715376605345366,
+    "recall": 0.6543286838619184,
+    "f1": 0.7819891972434345
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.05,
+    "configuration": "defended",
+    "attack": "fgsm",
+    "accuracy": 0.7675656676292419,
+    "precision": 0.962931349835386,
+    "recall": 0.6153666328995558,
+    "f1": 0.7508795283826186
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.05,
+    "configuration": "defended",
+    "attack": "pgd",
+    "accuracy": 0.7670777440071106,
+    "precision": 0.9628815628815629,
+    "recall": 0.6145094677783839,
+    "f1": 0.7502259430147934
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.05,
+    "configuration": "defended",
+    "attack": "clean",
+    "accuracy": 0.7967529892921448,
+    "precision": 0.9747957187248245,
+    "recall": 0.6600171433024234,
+    "f1": 0.7871015704860144
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.05,
+    "configuration": "defended",
+    "attack": "fgsm",
+    "accuracy": 0.7712029814720154,
+    "precision": 0.9686164366833557,
+    "recall": 0.6180939764669212,
+    "f1": 0.7546379982875084
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.05,
+    "configuration": "defended",
+    "attack": "pgd",
+    "accuracy": 0.7706707119941711,
+    "precision": 0.9685703803350862,
+    "recall": 0.6171588872438245,
+    "f1": 0.7539267015706806
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.1,
+    "configuration": "defended",
+    "attack": "clean",
+    "accuracy": 0.7834900617599487,
+    "precision": 0.9716488730723606,
+    "recall": 0.6382763188654251,
+    "f1": 0.77044631519541
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.1,
+    "configuration": "defended",
+    "attack": "fgsm",
+    "accuracy": 0.751153290271759,
+    "precision": 0.9609444798978941,
+    "recall": 0.5866905633912569,
+    "f1": 0.7285658989742597
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.1,
+    "configuration": "defended",
+    "attack": "pgd",
+    "accuracy": 0.7492459416389465,
+    "precision": 0.9593142272262026,
+    "recall": 0.5842749162315904,
+    "f1": 0.7262337159184464
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.1,
+    "configuration": "defended",
+    "attack": "clean",
+    "accuracy": 0.7860628366470337,
+    "precision": 0.9756532066508313,
+    "recall": 0.6401464973116184,
+    "f1": 0.773067331670823
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.1,
+    "configuration": "defended",
+    "attack": "fgsm",
+    "accuracy": 0.7641944885253906,
+    "precision": 0.9673007584234738,
+    "recall": 0.606249512974363,
+    "f1": 0.7453535159992336
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.1,
+    "configuration": "defended",
+    "attack": "pgd",
+    "accuracy": 0.7634847164154053,
+    "precision": 0.9664220868051238,
+    "recall": 0.6055481960570405,
+    "f1": 0.7445626137779056
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.1,
+    "configuration": "defended",
+    "attack": "clean",
+    "accuracy": 0.7740862369537354,
+    "precision": 0.9738001958863859,
+    "recall": 0.6198083067092651,
+    "f1": 0.7574877386791105
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.1,
+    "configuration": "defended",
+    "attack": "fgsm",
+    "accuracy": 0.7452093958854675,
+    "precision": 0.9603844655150019,
+    "recall": 0.576170809631419,
+    "f1": 0.72024157412819
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.1,
+    "configuration": "defended",
+    "attack": "pgd",
+    "accuracy": 0.7424591779708862,
+    "precision": 0.9589810581319399,
+    "recall": 0.5720408322294086,
+    "f1": 0.7166146036704412
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.1,
+    "configuration": "defended",
+    "attack": "clean",
+    "accuracy": 0.7810060381889343,
+    "precision": 0.9731543624161074,
+    "recall": 0.6327437076287695,
+    "f1": 0.7668697171459603
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.1,
+    "configuration": "defended",
+    "attack": "fgsm",
+    "accuracy": 0.7525283694267273,
+    "precision": 0.9618029029793735,
+    "recall": 0.5886386659393751,
+    "f1": 0.730313723594528
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.1,
+    "configuration": "defended",
+    "attack": "pgd",
+    "accuracy": 0.7499556541442871,
+    "precision": 0.9597495527728086,
+    "recall": 0.5852879295566119,
+    "f1": 0.7271407134904885
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.1,
+    "configuration": "defended",
+    "attack": "clean",
+    "accuracy": 0.787437915802002,
+    "precision": 0.9736129108257745,
+    "recall": 0.6440427024078548,
+    "f1": 0.7752556045399118
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.1,
+    "configuration": "defended",
+    "attack": "fgsm",
+    "accuracy": 0.7465844750404358,
+    "precision": 0.9607817758219,
+    "recall": 0.578430608587236,
+    "f1": 0.722116834476385
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.1,
+    "configuration": "defended",
+    "attack": "pgd",
+    "accuracy": 0.7452093958854675,
+    "precision": 0.959668006743613,
+    "recall": 0.5766383542429674,
+    "f1": 0.720404984423676
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.15,
+    "configuration": "defended",
+    "attack": "clean",
+    "accuracy": 0.7810060381889343,
+    "precision": 0.9708969465648855,
+    "recall": 0.634302189667264,
+    "f1": 0.767309233162087
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.15,
+    "configuration": "defended",
+    "attack": "fgsm",
+    "accuracy": 0.7431245446205139,
+    "precision": 0.957510395010395,
+    "recall": 0.5742227070833008,
+    "f1": 0.7179112475035316
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.15,
+    "configuration": "defended",
+    "attack": "pgd",
+    "accuracy": 0.7394428849220276,
+    "precision": 0.9550150385772198,
+    "recall": 0.569079716356269,
+    "f1": 0.7131835937499998
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.15,
+    "configuration": "defended",
+    "attack": "clean",
+    "accuracy": 0.7852643728256226,
+    "precision": 0.9762812872467223,
+    "recall": 0.6382763188654251,
+    "f1": 0.7718984121000801
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.15,
+    "configuration": "defended",
+    "attack": "fgsm",
+    "accuracy": 0.752040445804596,
+    "precision": 0.9631666453510679,
+    "recall": 0.5868464115951064,
+    "f1": 0.7293240364129382
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.15,
+    "configuration": "defended",
+    "attack": "pgd",
+    "accuracy": 0.7500443458557129,
+    "precision": 0.9609375,
+    "recall": 0.5846645367412141,
+    "f1": 0.7269996608691439
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.15,
+    "configuration": "defended",
+    "attack": "clean",
+    "accuracy": 0.7692068815231323,
+    "precision": 0.972504334902155,
+    "recall": 0.6118600483129432,
+    "f1": 0.7511359831635338
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.15,
+    "configuration": "defended",
+    "attack": "fgsm",
+    "accuracy": 0.737890362739563,
+    "precision": 0.9557661927330173,
+    "recall": 0.5657289799735058,
+    "f1": 0.7107543198394438
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.15,
+    "configuration": "defended",
+    "attack": "pgd",
+    "accuracy": 0.7340312004089355,
+    "precision": 0.9520031733439112,
+    "recall": 0.5610535338580223,
+    "f1": 0.7060207883898804
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.15,
+    "configuration": "defended",
+    "attack": "clean",
+    "accuracy": 0.776481568813324,
+    "precision": 0.972478176527643,
+    "recall": 0.6250292215382218,
+    "f1": 0.7609695934727954
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.15,
+    "configuration": "defended",
+    "attack": "fgsm",
+    "accuracy": 0.7412615418434143,
+    "precision": 0.9569190600522193,
+    "recall": 0.5711836671082365,
+    "f1": 0.7153662226125993
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.15,
+    "configuration": "defended",
+    "attack": "pgd",
+    "accuracy": 0.7375798225402832,
+    "precision": 0.954288716668856,
+    "recall": 0.5661186004831295,
+    "f1": 0.7106524503570382
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.15,
+    "configuration": "defended",
+    "attack": "clean",
+    "accuracy": 0.7845103144645691,
+    "precision": 0.9728447764733784,
+    "recall": 0.6392893321904465,
+    "f1": 0.771560236998025
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.15,
+    "configuration": "defended",
+    "attack": "fgsm",
+    "accuracy": 0.7384226322174072,
+    "precision": 0.9567966280295047,
+    "recall": 0.5660406763812047,
+    "f1": 0.7112851897184821
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.15,
+    "configuration": "defended",
+    "attack": "pgd",
+    "accuracy": 0.7356281280517578,
+    "precision": 0.9552258577295006,
+    "recall": 0.5619106989791942,
+    "f1": 0.7075851241291334
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.2,
+    "configuration": "defended",
+    "attack": "clean",
+    "accuracy": 0.7751508355140686,
+    "precision": 0.971459800825844,
+    "recall": 0.6233148912958778,
+    "f1": 0.7593867185645796
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.2,
+    "configuration": "defended",
+    "attack": "fgsm",
+    "accuracy": 0.741084098815918,
+    "precision": 0.9572549019607843,
+    "recall": 0.5706381983947635,
+    "f1": 0.7150319777376362
+  },
+  {
+    "seed": 42,
+    "epsilon": 0.2,
+    "configuration": "defended",
+    "attack": "pgd",
+    "accuracy": 0.736737072467804,
+    "precision": 0.9533385909568874,
+    "recall": 0.5651835112600327,
+    "f1": 0.7096521696590187
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.2,
+    "configuration": "defended",
+    "attack": "clean",
+    "accuracy": 0.7776792049407959,
+    "precision": 0.9753251488999636,
+    "recall": 0.625262993843996,
+    "f1": 0.7620132953466288
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.2,
+    "configuration": "defended",
+    "attack": "fgsm",
+    "accuracy": 0.7400195002555847,
+    "precision": 0.9574803149606299,
+    "recall": 0.5685342476427959,
+    "f1": 0.7134405710653693
+  },
+  {
+    "seed": 123,
+    "epsilon": 0.2,
+    "configuration": "defended",
+    "attack": "pgd",
+    "accuracy": 0.7361160516738892,
+    "precision": 0.9524185068349106,
+    "recall": 0.5646380425465597,
+    "f1": 0.7089672716598993
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.2,
+    "configuration": "defended",
+    "attack": "clean",
+    "accuracy": 0.7717796564102173,
+    "precision": 0.9729330708661418,
+    "recall": 0.6162237980207278,
+    "f1": 0.7545441534277945
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.2,
+    "configuration": "defended",
+    "attack": "fgsm",
+    "accuracy": 0.7296398282051086,
+    "precision": 0.9525792584631918,
+    "recall": 0.5525598067482272,
+    "f1": 0.6994131281747792
+  },
+  {
+    "seed": 2024,
+    "epsilon": 0.2,
+    "configuration": "defended",
+    "attack": "pgd",
+    "accuracy": 0.7217441201210022,
+    "precision": 0.9461371055495104,
+    "recall": 0.5420400529883893,
+    "f1": 0.6892246717859798
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.2,
+    "configuration": "defended",
+    "attack": "clean",
+    "accuracy": 0.7723562717437744,
+    "precision": 0.9725119646582403,
+    "recall": 0.6175485077534482,
+    "f1": 0.7554093985320752
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.2,
+    "configuration": "defended",
+    "attack": "fgsm",
+    "accuracy": 0.7327892184257507,
+    "precision": 0.9535100572798721,
+    "recall": 0.5577807215771838,
+    "f1": 0.703834808259587
+  },
+  {
+    "seed": 7,
+    "epsilon": 0.2,
+    "configuration": "defended",
+    "attack": "pgd",
+    "accuracy": 0.7281316518783569,
+    "precision": 0.9490889603429796,
+    "recall": 0.5520143380347542,
+    "f1": 0.6980341922451594
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.2,
+    "configuration": "defended",
+    "attack": "clean",
+    "accuracy": 0.7825585603713989,
+    "precision": 0.972927847346452,
+    "recall": 0.6357048235019092,
+    "f1": 0.7689697426713168
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.2,
+    "configuration": "defended",
+    "attack": "fgsm",
+    "accuracy": 0.7350514531135559,
+    "precision": 0.9525065963060686,
+    "recall": 0.5626120158965168,
+    "f1": 0.7073923480135208
+  },
+  {
+    "seed": 999,
+    "epsilon": 0.2,
+    "configuration": "defended",
+    "attack": "pgd",
+    "accuracy": 0.7308374643325806,
+    "precision": 0.9492628503121264,
+    "recall": 0.5569235564560119,
+    "f1": 0.7019939102249287
+  }
+]

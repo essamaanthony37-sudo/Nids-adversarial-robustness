@@ -26,8 +26,8 @@ columns = [
     "dst_host_srv_serror_rate","dst_host_rerror_rate","dst_host_srv_rerror_rate",
     "label","difficulty"
 ]
-train_df = pd.read_csv("data/KDDTrain+.txt", names=columns)
-test_df = pd.read_csv("data/KDDTest+.txt", names=columns)
+train_df = pd.read_csv("KDDTrain+.txt", names=columns)
+test_df = pd.read_csv("KDDTest+.txt", names=columns)
 train_df.drop(columns=["difficulty"], inplace=True)
 test_df.drop(columns=["difficulty"], inplace=True)
 train_df["binary_label"] = (train_df["label"] != "normal").astype(int)
